@@ -34,3 +34,7 @@
 ## 문의 및 피드백은 아래 연락처로 전달해주세요!
 - 채널톡 : https://sroom.channel.io/home
 - 이메일 : sroom0409@gmail.com
+<br/>
+이 성과는 2023년도 과학기술정보통신부의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임(IITP-2023-SW마에스트로과정)
+
+*This work was supported by the Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Ministry of Science and ICT(MSIT) (IITP-2023-SW Maestro Training course)*
