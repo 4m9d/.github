@@ -16,6 +16,21 @@
 - GPT 기반 생성형 AI로 영상 내용기반 퀴즈를 출제해줘요
 - 퀴즈를 풀고 자신의 성취도를 평가할 수 있어요
 
+<h2 align='center'>4M9D 팀원소개</center>
+
+![스크린샷 2024-01-16 125804](https://github.com/4m9d/.github/assets/47748085/b36c4086-5855-4e40-b641-8796088c7a09)
+
+<table width='50%'>
+  <th>정두원</th>
+  <th>이종준</th>
+  <th>손경식</th>
+  <tr>
+    <td><a href='https://github.com/D-w-nJ'>GitHub</a></td>
+    <td><a href='https://github.com/oikkoikk'>GitHub</a></td>
+    <td><a href='https://github.com/Son-Gyeongsik'>GitHub</a></td>
+  </tr>
+</table>
+
 ## 문의 및 피드백은 아래 연락처로 전달해주세요!
 - 채널톡 : https://sroom.channel.io/home
 - 이메일 : sroom0409@gmail.com
