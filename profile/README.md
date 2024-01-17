@@ -22,7 +22,7 @@
 
 ![스크린샷 2024-01-16 125804](https://github.com/4m9d/.github/assets/47748085/b36c4086-5855-4e40-b641-8796088c7a09)
 
-<table width='50%'>
+<table>
   <th>정두원</th>
   <th>이종준</th>
   <th>손경식</th>
