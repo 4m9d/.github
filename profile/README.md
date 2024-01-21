@@ -36,7 +36,7 @@
 <br></br>
 <h2 align='center'>Architecture</h2>
 
-![abcde](https://github.com/4m9d/.github/assets/96522218/83bf1a93-9363-470e-ab76-75b9f3e88127)
+<img width="1187" alt="image" src="https://github.com/4m9d/.github/assets/96522218/cff7da3c-2657-4370-b307-c1220b61433b">
 
 <br></br>
 
