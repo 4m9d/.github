@@ -18,6 +18,21 @@
 - 퀴즈를 풀고 자신의 **성취도를 평가**할 수 있어요
 
 <br></br>
+
+<h2>주요 기능</h2>
+<h3>[강의 검색]</h3>
+
+| 검색 |
+|----------|
+|![ezgif com-video-to-gif_(6)](https://github.com/4m9d/.github/assets/96522218/5fa76f3e-401a-4e4d-afe8-af0c6a1077b1)|
+| 웹 페이지 상단바의 검색창을 통해 유튜브 컨텐츠를 찾아볼 수 있어요 |
+
+| 강의 상세 조회 |
+|----------|
+|![sroom_search_2](https://github.com/4m9d/.github/assets/96522218/cc267b4e-0f3d-409a-827a-49e129e7ba10)|
+| 맘에드는 강의카드를 클릭해 더 자세한 정보를 볼 수 있어요 |
+
+<br></br>
 <h2 align='center'>4M9D 팀원소개</center>
 
 ![스크린샷 2024-01-16 125804](https://github.com/4m9d/.github/assets/47748085/b36c4086-5855-4e40-b641-8796088c7a09)
