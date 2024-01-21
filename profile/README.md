@@ -20,6 +20,28 @@
 <br></br>
 
 <h2>주요 기능</h2>
+<h3>[대시 보드]</h3>
+
+| 퀴즈 복습 및 학습 지표 제공 |
+|----------|
+|![2024-01-218 38 03-ezgif com-crop (1)](https://github.com/4m9d/.github/assets/63336701/e37d34da-a4ac-4581-bd6d-fa31b54f1b5a)|
+| 틀렸던 퀴즈를 빠르게 복습하고, 학습 캘린더나 정답율, 완강율과 같은 학습 지표를 제공받을 수 있어요 |
+
+<h3>[강의 추천]</h3>
+<table>
+  <tr>
+    <th colspan="3">카테고리별 강의 추천</th>
+  </tr>
+  <tr>
+    <td><img width="1800" alt="스크린샷 2024-01-21 오후 8 39 18" src="https://github.com/4m9d/.github/assets/63336701/02c92264-5256-40a6-9546-ff86ac1c1d5e"></td>
+    <td><img width="1800" alt="스크린샷 2024-01-21 오후 8 39 29" src="https://github.com/4m9d/.github/assets/63336701/6a7bf363-57a6-484f-95e8-bf42a95b2852"></td>
+    <td><img width="1800" alt="스크린샷 2024-01-21 오후 8 39 38" src="https://github.com/4m9d/.github/assets/63336701/60ffc933-e75f-4937-be0e-a0e11eef7094"></td>
+  </tr>
+  <tr>
+    <td colspan="3">평점이 높은 영상 뿐만 아니라시사, 경제, 기술, 과학 등 카테고리별로 추천 영상을 제공받을 수 있어요</td>
+  </tr>
+</table>
+
 <h3>[강의 검색]</h3>
 
 | 검색 |
