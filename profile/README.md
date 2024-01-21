@@ -1,4 +1,6 @@
-![배너](https://github.com/4m9d/.github/assets/63336701/93c71a1a-3997-4a98-9654-1bf45667d6a7)
+[![배너](https://github.com/4m9d/.github/assets/63336701/93c71a1a-3997-4a98-9654-1bf45667d6a7)](https://sroom.kr)
+_위 로고 이미지를 클릭하면 스룸으로 이동할 수 있어요!_
+
 ![스룸 홍보용 배너](https://github.com/4m9d/.github/assets/63336701/6fa888ee-0cd2-4741-bcf4-5c4c086e2e50)
 <br></br>
 <h1 align='center'> 유튜브 강의를 쉽고 편하게, 스룸 </h1>
