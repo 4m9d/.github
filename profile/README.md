@@ -79,6 +79,13 @@ _위 로고 이미지를 클릭하면 스룸으로 이동할 수 있어요!_
 |![ezgif com-video-to-gif (18)](https://github.com/user-attachments/assets/03e5d0d1-43bb-422f-a428-b87d67a0ba11)|
 | AI로 자동 생성된 퀴즈를 풀며 학습 내용을 복습할 수 있어요 |
 
+<h3>[강의노트 PDF 내보내기]</h3>
+
+| 강의 노트 PDF 내보내기 |
+|----------|
+|![image](https://private-user-images.githubusercontent.com/63336701/284505402-8862bd03-e58f-4951-891e-23647bec5932.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0NzE5NTcsIm5iZiI6MTc0NDQ3MTY1NywicGF0aCI6Ii82MzMzNjcwMS8yODQ1MDU0MDItODg2MmJkMDMtZTU4Zi00OTUxLTg5MWUtMjM2NDdiZWM1OTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE1MjczN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMzAxZjQ2MjJkNTNiMmZiMDk5NTM5ZTUwNzUxNjAxYjY4NTA2OWZkNmUyMzU0MGE4NDI5NTI2MzI1OTBkY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ju-tJeWEpTjcGJNUURwwb6Rj3d2nSipJhiKPALz-iPw)|
+| 다시 보고 싶은 강의 노트는 PDF로 내보낼 수 있어요 |
+
 
 <br></br>
 
