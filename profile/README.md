@@ -39,7 +39,7 @@
     <td><img width="1800" alt="스크린샷 2024-01-21 오후 8 39 38" src="https://github.com/4m9d/.github/assets/63336701/60ffc933-e75f-4937-be0e-a0e11eef7094"></td>
   </tr>
   <tr>
-    <td colspan="3">평점이 높은 영상 뿐만 아니라시사, 경제, 기술, 과학 등 카테고리별로 추천 영상을 제공받을 수 있어요</td>
+    <td colspan="3">평점이 높은 영상 뿐만 아니라 시사, 경제, 기술, 과학 등 카테고리별로 추천 영상을 제공받을 수 있어요</td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@
 
 | 강의자료 PDF 내보내기 |
 |----------|
-|![image](https://private-user-images.githubusercontent.com/63336701/284505402-8862bd03-e58f-4951-891e-23647bec5932.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ0NzE5NTcsIm5iZiI6MTc0NDQ3MTY1NywicGF0aCI6Ii82MzMzNjcwMS8yODQ1MDU0MDItODg2MmJkMDMtZTU4Zi00OTUxLTg5MWUtMjM2NDdiZWM1OTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDEyVDE1MjczN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMzAxZjQ2MjJkNTNiMmZiMDk5NTM5ZTUwNzUxNjAxYjY4NTA2OWZkNmUyMzU0MGE4NDI5NTI2MzI1OTBkY2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ju-tJeWEpTjcGJNUURwwb6Rj3d2nSipJhiKPALz-iPw)|
+|<img width="1291" height="930" alt="284505402-8862bd03-e58f-4951-891e-23647bec5932" src="https://github.com/user-attachments/assets/3a6f5a2c-5176-4173-bbfc-b2f3f69ef9e0" />|
 | 다시 복습하고 싶은 강의 노트와 퀴즈는 PDF로 내보낼 수 있어요 |
 
 
